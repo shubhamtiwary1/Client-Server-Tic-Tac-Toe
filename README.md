@@ -9,12 +9,5 @@ This project is a network-based Tic-Tac-Toe game developed using Java. It allows
 - **Message Handling:** Uses `DataInputStream` and `DataOutputStream` for sending and receiving game-related messages.
 - **Sequential Client Handling:** Processes one client at a time due to the lack of multi-threading.
 
-## Setup and Usage
-
-### Server
-
-1. **Compile the Server Code:**
-   ```bash
-   javac server/TicTacToeServer.java
 
 
